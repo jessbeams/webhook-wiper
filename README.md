@@ -1,3 +1,3 @@
 # webhook-wiper
 
-This is just a test github lol i might be putting a webhook deleter source here soon...
+Go to my discord 4 the source
